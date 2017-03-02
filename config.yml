@@ -1,0 +1,4 @@
+
+## Config of server
+server:
+  uri: http://localhost:8080/rcc2016
